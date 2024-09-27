@@ -1,4 +1,4 @@
-# 🌑 **Abhinav Sirosh** - Salesforce Developer  
+# 🌑 **Abhinav Sirosh**
 
 ## 📬 Contact Information  
 **Email:** [abhinavsirosh@gmail.com](mailto:abhinavsirosh@gmail.com)  
@@ -7,8 +7,8 @@
 
 ---
 
-## 💼 Work Experience  
-- 💻 **Salesforce Developer Specialization**:  
+## 💼  Salesforce Developer   
+- 💻 :  
    - Apex and Lightning Web Components (LWC)  
    - Data Modeling, Security, Workflows, Flows, Process Builder  
    - Integration via REST API, Apex Triggers, and Automation Flows  
@@ -26,15 +26,17 @@
 
 ---
 
-## 🏅 Certifications  
-![Salesforce Logo](https://img.shields.io/badge/Salesforce-Administrator-%23296d98.svg?style=flat&logo=salesforce&logoColor=white)  
-[Salesforce Certified Administrator](https://drive.google.com/file/d/1Yn9hGcKFLBVarQBOCvE-67zb6lOf8oQL/view?usp=drive_link)  
-
-![Salesforce Logo](https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-%23296d98.svg?style=flat&logo=salesforce&logoColor=white)  
-[Salesforce Certified Platform Developer I](https://drive.google.com/file/d/1nzKFBoK35pQOOlP2N-CyWLtFfEPsTjyY/view?usp=drive_link)  
+## 🏅 Certifications
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="Salesforce Certified Administrator" width="20" style="margin-right: 8px;">
+  <a href="https://drive.google.com/file/d/1Yn9hGcKFLBVarQBOCvE-67zb6lOf8oQL/view?usp=drive_link" target="_blank">Salesforce Certified Administrator</a>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="Salesforce Certified Platform Developer I" width="20" style="margin-right: 8px;">
+  <a href="https://drive.google.com/file/d/1nzKFBoK35pQOOlP2N-CyWLtFfEPsTjyY/view?usp=drive_link" target="_blank">Salesforce Certified Platform Developer I</a>
+</div>
 
 ---
-
 ## 💻 Tech Stack  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
