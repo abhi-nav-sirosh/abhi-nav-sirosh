@@ -1,4 +1,4 @@
-# 🌑 **Abhinav Sirosh**
+# **Abhinav Sirosh**
 
 ## 📬 Contact Information  
 **Email:** [abhinavsirosh@gmail.com](mailto:abhinavsirosh@gmail.com)  
